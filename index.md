@@ -4,7 +4,7 @@ layout: default
 output: 
   html_document:
     includes:
-       in_header: ./GA_script.html
+       in_header: ./_includes/GA_script.html
 ---
 
 <div id="twosided">
