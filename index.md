@@ -33,11 +33,9 @@ If you have any questions or comments, please feel free to contact me at [jenil.
     <div id="left" style="float: left; max-width: 30%;border: 10px"> 
         <img src="./images/Oden.png" />
     </div>
-<!--     <div id="right" style="float: right; max-width: 30%;border: 10px">  -->
-<!--         <img src="./images/ut_logo.jpg" /> -->
-<!--     </div> -->
-  ![](https://upload.wikimedia.org/wikipedia/commons/7/77/University_of_Texas_at_Austin_logo.svg)
+    <div id="right" style="float: right; max-width: 30%;border: 10px"> 
+        <img src="./images/ut_logo.jpg" />
+    </div>
 </div>
-
 
 ---
