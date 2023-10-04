@@ -34,6 +34,7 @@ If you have any questions or comments, please feel free to contact me at [jenil.
         <img src="./images/Oden.png" />
     </div>
     <div id="right" style="float: right; max-width: 30%;border: 10px"> 
+
         <img src="./images/ut_logo.jpg" />
     </div>
 </div>
