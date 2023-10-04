@@ -4,7 +4,8 @@ layout: default
 output: 
   html_document:
     includes:
-       in_header: ./_includes/GA_script.html
+       in_header: ./_includes/GA_script.html ./includes/footer.html
+
 ---
 
 <div id="twosided">
@@ -27,6 +28,8 @@ I earned my Bachelor’s and Master’s of Technology in Energy Science and Engi
 
 If you have any questions or comments, please feel free to contact me at [jenil.s0703[at]gmail.com]("mailto:jenil.s0703@gmail.com")
 
+---
 <div id="footer">
   <p></a href="https://www.utexas.edu">UT Austin</a></p>
 </div>
+---
