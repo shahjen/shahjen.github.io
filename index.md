@@ -30,6 +30,11 @@ If you have any questions or comments, please feel free to contact me at [jenil.
 
 ---
 <div id="site-footer">
-  <p></a href="https://www.utexas.edu">UT Austin</a></p>
+    <div id="left" style="float: left; max-width: 30%;border: 10px"> 
+        <img src="./images/Oden.png" />
+    </div>
+    <div id="right" style="float: right; max-width: 30%;border: 10px"> 
+        <img src="./images/ut_logo.png" />
+    </div>
 </div>
 ---
