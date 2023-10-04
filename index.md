@@ -12,6 +12,7 @@ output:
 <div id="left" style="float: left; max-width: 30%;border: 10px"> 
     <img src="./images/jenil_linkedin.jpeg" />
 </div>
+  
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZXTS0GN30E"></script>
 <script>
@@ -21,6 +22,7 @@ output:
 
   gtag('config', 'G-ZXTS0GN30E');
 </script>
+
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
 <p> <b>Jenil Shah</b> <br> <em>Master's Student</em> </p>
 <p> <a href="https://oden.utexas.edu" target="blank">Oden Institute for Computational Science and Engineering</a><br>
