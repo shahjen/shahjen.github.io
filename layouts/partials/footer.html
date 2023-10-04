@@ -1,16 +1,30 @@
-<footer class="section border-top">
-  <div class="container">
-    <div class="row text-center">
-      <div class="col-lg-12">
-        <ul class="social-links is-circle-filled list-unstyled list-inline mb-4">
-          {{range site.Params.social -}}
-          <li class="list-inline-item"><a href="{{.link | safeURL}}">
-              <i class="{{ .icon }}"></i>
-            </a></li>
-          {{- end}}
-        </ul>
-        <P class="mb-0">{{ site.Params.copyright | markdownify }}</P>
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+    {% include GA_script.html %}
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      {% if site.title and site.title != page.title %}
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      {% endif %}
+
+      {{ content }}
+
+      {% if site.github.private != true %}
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+      </a href="https://www.utexas.edu">UT Austin</a>
       </div>
+      {% endif %}
     </div>
-  </div>
-</footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
