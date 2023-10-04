@@ -7,7 +7,17 @@ output:
        in_header: ./_includes/GA_script.html ./includes/footer.html
 
 ---
+<!--html_preserve-->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZXTS0GN30E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-ZXTS0GN30E');
+</script>
+<!--/html_preserve-->
 <div id="twosided">
 <div id="left" style="float: left; max-width: 30%;border: 10px"> 
     <img src="./images/jenil_linkedin.jpeg" />
