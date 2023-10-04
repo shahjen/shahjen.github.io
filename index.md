@@ -23,7 +23,7 @@ output:
     <img src="./images/jenil_linkedin.jpeg" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
-<p> <b>Jenil Shah</b> <br> <em>Master's Student</em> </p>
+<p> <b> <a href="https://www.linkedin.com/in/jenilsha/" target="blank">Jenil Shah</a></b> <br> <em>Master's Student</em> </p>
 <p> <a href="https://oden.utexas.edu" target="blank">Oden Institute for Computational Science and Engineering</a><br>
 <a href="https://utexas.edu" target="blank">The University of Texas at Austin</a></p>
 <p> <a href="./docs/jenil_shah_cv_23.pdf">Curriculum vitae </a> </p>
