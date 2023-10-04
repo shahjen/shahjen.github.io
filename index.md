@@ -26,6 +26,7 @@ In the past, I worked as a Quantitative Researcher at Alphagrep Securities, Quan
 I earned my Bachelor’s and Master’s of Technology in Energy Science and Engineering from [IIT Bombay]("https://www.iitb.ac.in") in 2019. My interests lie in the field of computational simulations. I also have developed an interest in programming and finance over my professional career.
 
 If you have any questions or comments, please feel free to contact me at [jenil.s0703[at]gmail.com]("mailto:jenil.s0703@gmail.com")
-<footer>
+
+<div id="footer">
   <p></a href="https://www.utexas.edu">UT Austin</a></p>
-</footer>
+</div>
