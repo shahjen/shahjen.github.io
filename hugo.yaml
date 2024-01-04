@@ -1,0 +1,62 @@
+baseURL: 'https://example.org/'
+languageCode: en-us
+title: Jenil-Shah
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about
+      weight: 10
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 20
+    - identifier: experience
+      name: experience
+      url: /experience/
+      weight: 30
+    - identifier: education
+      name: education
+      url: /education/
+      weight: 40
+    - identifier: internships
+      name: internships
+      url: /internships/
+      weight: 50
+
+params:
+  defaultTheme: auto
+  assets:
+    disableFingerprinting: true
+  profileMode:
+    enabled: True
+    title: "Jenil Shah"
+    subtitle: "[Ongoing] MS in Computational Science, Engineering and Mathematics at UT Austin
+
+
+    Ex-Goldman Sachs | Ex-Alhagrep Securities | Ex-Trexquant Investments"
+    imageUrl: "home/jenil_linkedin.jpeg"
+    imageWidth: 220
+    imageHeight: 220
+  
+  socialIcons:
+    - name : "email"
+      url  : "mailto:jenil.s0703@gmail.com"
+    - name : "linkedin"
+      url  : "https://www.linkedin.com/in/jenilsha/"
+    - name : "github"
+      url  : "https://github.com/shahjen"
+    - name : "cv"
+      url  : "mailto:jenil.s0703@gmail.com"
+
+  # search
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
