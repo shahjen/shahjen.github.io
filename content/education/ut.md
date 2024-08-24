@@ -15,7 +15,11 @@ Courses that I have completed or in progress:
 - CSE 380  - [Tools and Techniques of Computational Science](https://oden.utexas.edu/academics/courses/tools-techniques-of-computational-science) (Grade: A)
 - M 393C   - [Mathematics in Deep Learning](https://catalog.utexas.edu/general-information/coursesatoz/m/) (Grade: A)
 
+- CSE 382M - [Foundational Techniques of Machine Learning and Data Sciences](https://oden.utexas.edu/academics/courses/foundational-techniques-machine-learning-data-sciences/) (Grade: A) 
+- CSE 393P - [Computational and Variational Methods for Inverse Problems](https://oden.utexas.edu/academics/courses/Computional-variational-meths-inv-probs-393p/) (Grade: A)
+- CSE 392  - [Matrix & Tensor Algoritms for Data](https://oden.utexas.edu/academics/courses/topics-in-computer-science/) (Grade: A)
+
 (Upcoming)
-- CSE 382M - [Foundational Techniques of Machine Learning and Data Sciences](https://oden.utexas.edu/academics/courses/foundational-techniques-machine-learning-data-sciences/)
-- CSE 393P - [Computational and Variational Methods for Inverse Problems](https://oden.utexas.edu/academics/courses/Computional-variational-meths-inv-probs-393p/)
-- CSE 392  - [Matrix & Tensor Algoritms for Data](https://oden.utexas.edu/academics/courses/topics-in-computer-science/)
+- CSE 394 - [Stochastic Processes](https://oden.utexas.edu/academics/courses/Stochastic-processes-I-394-1/)
+- CSE 392 - [Scientific Computational Machine Learning]
+- PHY 381C - [Computational Physics](http://www.wgilpin.com/cphy/)
