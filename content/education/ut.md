@@ -4,12 +4,12 @@ description: "Master of Science | Computational Science, Engineering and Mathema
 draft: False
 weight: 101
 disableAnchoredHeadings: true
-summary : "2023-2025 [Expected]"
+summary : "2023-2025"
 ---
 
 I am currently working towards a Master of Science in [Computational Science, Engineering and Mathematics](https://oden.utexas.edu/academics/masters-program/) at the [Oden Institute of Technology](https://oden.utexas.edu) in the [University of Texas at Austin](https://www.utexas.edu).
 
-Courses that I have completed or in progress:
+Courses that I have completed:
 
 - CSE 383C - [Numerical Analysis: Linear Algebra](https://oden.utexas.edu/academics/courses/numerical-analysis-linear-algebra/) (Grade: A)
 - CSE 380  - [Tools and Techniques of Computational Science](https://oden.utexas.edu/academics/courses/tools-techniques-of-computational-science) (Grade: A)
@@ -19,7 +19,6 @@ Courses that I have completed or in progress:
 - CSE 393P - [Computational and Variational Methods for Inverse Problems](https://oden.utexas.edu/academics/courses/Computional-variational-meths-inv-probs-393p/) (Grade: A)
 - CSE 392  - [Matrix & Tensor Algoritms for Data](https://oden.utexas.edu/academics/courses/topics-in-computer-science/) (Grade: A)
 
-(Upcoming)
-- CSE 394 - [Stochastic Processes](https://oden.utexas.edu/academics/courses/Stochastic-processes-I-394-1/)
-- CSE 392 - [Scientific Computational Machine Learning]
-- PHY 381C - [Computational Physics](http://www.wgilpin.com/cphy/)
+- CSE 394 - [Stochastic Processes](https://oden.utexas.edu/academics/courses/Stochastic-processes-I-394-1/) (Grade: A)
+- CSE 392 - [Scientific Computational Machine Learning] (Grade: A)
+- ORI 390R - [Applied Stochastic Processes](https://www.coursicle.com/utexas/courses/ORI/390R/)

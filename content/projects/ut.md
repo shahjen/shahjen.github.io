@@ -1,9 +1,9 @@
 ---
 title: "UT Austin" # in any language you want
-description: "Projects at UT Austin 2023 - "
+description: "Projects at UT Austin 2023 - 2025"
 draft: False
 weight: 102
-summary: "2023 - "
+summary: "2023 - 2025"
 ---
 
 I am currently pursuing a Master of Science degree in the University of Texas at Austin. Some projects that I have worked on/am currently working on here:
@@ -20,3 +20,10 @@ I am currently pursuing a Master of Science degree in the University of Texas at
     - We hosted this on our team github repo with continuous integration
     - The environment to run the code was also containerized and pushed it to dockerhub
     - Wrote unit tests using bats framework and added them to the CI
+
+- **Deep learning for universal linear embeddings of nonlinear dynamics**: In a team of 3, we tried to learn the dynamics of chaotic systems by learning their Koopman modes. To summarize:
+    - We used an encoder to map the dynamics to an infinite dimensional linear space, and then used a decoder to get back to the finite dimensional settting.
+    - We closely followed [Lusch et al 2018](https://www.nature.com/articles/s41467-018-07210-0) for inspiration and for the starting point to our neural network architecture.
+    - We validated results in the paper
+    - We extended the model to try and learn the dynamics of a chaotic Lorenz-96 system
+    - The code can be found on GitHub: [https://github.com/shahjen/DeepKoopmanLorenz96](https://github.com/shahjen/DeepKoopmanLorenz96) 

@@ -6,11 +6,9 @@ weight: 103
 summary: "Spring 2024-"
 ---
 
-I will be working on the DCE MSOT Image Reconstruction Project with [Prof Umberto Villa](https://uvilla.github.io/) in the spring semester of 2024. 
+I am working on Low rank tensor methods for efficient computational image reconstruction with [Prof Umberto Villa](https://uvilla.github.io/).
 
-The broad objective of this proposal is to develop novel and advanced computational and mathematical models to accurately estimate tumor perfusion rates from DCE MSOT images. The proposed methods will be assessed using retrospective DCE MSOT imaging data from a large cohort of mice undergoing radiotherapy.
+The broad objective of this work is to develop novel and advanced computational and mathematical models to accurately estimate tumor perfusion rates from Dynamic Contrast Enhanced Multispectral Optoacoustic Tomographic (DCE-MSOT) images. The proposed methods are validated in-silico using inverse crime studies. We also demonstrate the efficacy of these methods using in-vivo data, by achieving a 3x reduction in computational costs for the same level of accuracy compared to the current state-of-the-art methods.
 
-Briefly:
+I presented this [work](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13412/134120I/A-low-rank-based-image-reconstruction-method-for-dynamic-contrast/10.1117/12.3047128.full) at the [SPIE](https://spie.org) Medical Imaging Conference, 2025 at San Diego.
 
-- We will utilise matrix/tensor algorithms to denoise DCE MSOT images
-- We will try to extend the two-compartment linear standard model (**2C-LSM,** Hupple et al 2018) to account for tumor heterogenity
